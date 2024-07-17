@@ -1,4 +1,4 @@
-基于Xilinx XC7K70T的开源最小系统构建指南
+# 基于Xilinx XC7K70T的开源最小系统构建指南
 ## 一、准备工作
 ### Vivado
 推荐在Vivado 2018.3上运行本项目，若Vivado版本高于2019.2需要安装Vitis。为了方便各位同学的安装，以下是Vitis2020.2安装包的夸克网盘链接，建议预留100GB的磁盘存储空间。（注：Vitis内含Vivado软件）<br />链接：[https://pan.quark.cn/s/e5dac7715580](https://pan.quark.cn/s/e5dac7715580)

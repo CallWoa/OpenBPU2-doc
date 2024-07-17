@@ -7,7 +7,8 @@
 本设计作为本课题组的开源项目的一部分，还将与组内所开发的双发射前端对接，使 Polaris 最终完善为一款支持 RVP 的 SIMD 双发射超标量处理器。
 
 ## 北极星项目链接
-- Polaris 开源仓库: [https://github.com/ByeBeihai/Polaris](https://github.com/ByeBeihai/Polaris)
+- Polaris 代码仓库: [https://github.com/ByeBeihai/Polaris](https://github.com/ByeBeihai/Polaris)
+- Polaris 文档仓库: [https://callwoa.github.io/OpenBPU2-doc/](https://callwoa.github.io/OpenBPU2-doc/)
 - Nexus-AM 编译平台: [https://github.com/ByeBeihai/nexus-am](https://github.com/ByeBeihai/nexus-am) 
 - FPGA 验证框架: [https://github.com/ssdfghhhhhhh/NutShell_U250](https://github.com/ssdfghhhhhhh/NutShell_U250) 
 - Polaris指令集扩展简易教程: [https://github.com/ByeBeihai/Polaris/blob/master/extension.md](https://github.com/ByeBeihai/Polaris/blob/master/extension.md)
