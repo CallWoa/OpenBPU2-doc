@@ -12,7 +12,8 @@
 - Nexus-AM 编译平台: [https://github.com/ByeBeihai/nexus-am](https://github.com/ByeBeihai/nexus-am) 
 - FPGA 验证框架: [https://github.com/ssdfghhhhhhh/NutShell_U250](https://github.com/ssdfghhhhhhh/NutShell_U250) 
 - Polaris指令集扩展简易教程: [https://github.com/ByeBeihai/Polaris/blob/master/extension.md](https://github.com/ByeBeihai/Polaris/blob/master/extension.md)
-## 北极星仓库目录结构
+
+## 北极星代码仓库目录结构
 项目 Repository 建立在 Scala 框架下, 其中主要的的目录和文件如下：
 ```
 .
